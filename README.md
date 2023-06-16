@@ -1,6 +1,24 @@
 # SatuDarah
 ## Product-Capstone Project by C23-PC761
 
+## Team 
+Adi Pramono
+M299DSX0545
+Pancasila University
+    
+A. Nur Annisa 
+Alif Panawan
+M177DSY1904
+Hasanuddin University
+
+   Arif Rafid Adli
+C068DSX4837
+Politeknik Negeri Padang
+
+
+Fatya Hanifa
+A305DSY3249
+UPN Veteran jawa Timur
 
 
 ### Background Fact
