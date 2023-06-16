@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity">
+
+    <ImageView
+        android:id="@+id/ap_profile"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.188"
+        tools:src="@drawable/woman" />
+
+    <TextView
+        android:id="@+id/tv_nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        tools:text="Anisa Sabila"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:maxLines="1"
+        app:layout_constraintEnd_toEndOf="@+id/ap_profile"
+        app:layout_constraintStart_toStartOf="@+id/ap_profile"
+        app:layout_constraintTop_toBottomOf="@+id/ap_profile" />
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="anisasbl"
+        android:maxLines="1"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nama"
+        app:layout_constraintStart_toStartOf="@+id/tv_nama"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nama" />
+
+    <TextView
+        android:id="@+id/general"
+        android:layout_width="191dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="16dp"
+        android:maxLines="1"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/tv_email"
+        app:layout_constraintStart_toStartOf="@+id/tv_email"
+        app:layout_constraintTop_toBottomOf="@+id/tv_email"
+        tools:text="@string/general" />
+
+    <TextView
+        android:id="@+id/data_1"
+        android:layout_width="180dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="@+id/general"
+        app:layout_constraintStart_toStartOf="@+id/general"
+        app:layout_constraintTop_toBottomOf="@+id/general"
+        tools:text="@string/data_1" />
+
+    <TextView
+        android:id="@+id/khusus"
+        android:layout_width="191dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="5dp"
+        android:maxLines="1"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/data_1"
+        app:layout_constraintStart_toStartOf="@+id/data_1"
+        app:layout_constraintTop_toBottomOf="@+id/data_1"
+        tools:text="@string/khusus" />
+
+    <TextView
+        android:id="@+id/data_2"
+        android:layout_width="175dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="@+id/khusus"
+        app:layout_constraintStart_toStartOf="@+id/khusus"
+        app:layout_constraintTop_toBottomOf="@+id/khusus"
+        tools:text="@string/data_2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

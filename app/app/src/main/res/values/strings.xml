@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Satu Darah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q_1">Apa itu Aplikasi Satu Darah?</string>
+    <string name="q_2">Bagaimana cara menggunakan aplikasi Satu Darah?</string>
+    <string name="a_1">Aplikasi Satu Darah adalah aplikasi yang digunakan untuk orang yang ingin mendonorkan darahnya dan juga untuk pengguna yang sedang membutuhkan donor darah.
+
+Aplikasi ini bertujuan untuk membantu sesama manusia dan mempermudah urusan golongan darah yang bekerja sama dengan rumah sakit dan PMI.
+    </string>
+    <string name="a_2">Sobat darah yang ingin mendonorkan darahnya, dapat melakukan beberapa hal berikut ini:
+
+1. Melengkapi profile terlebih dahulu agar admin darah dapat mengetahui catatan kesehatan sobat darah seperti golongan darah, riwayat penyakit, dan sebagainya.
+2. Menuju halaman donate.
+3. Memastikan lokasi yang tertera berada di tempat sobat darah sekarang.
+4. Pilih tempat donor darah. Terdapat dua kategori yang ada yaitu urgent dan tidak urgent. Utamakan yang urgent terlebih dahulu ya sobat darah.
+5. Daftarkan diri Anda.
+6. Tunggu konfirmasi.
+7. Selesai! Anda dapat langsung menuju ke lokasi pengambilan darah.
+
+Terima kasih sudah ingin menyelamatkan nyawa bersama ya, sobat darah!
+    </string>
+    <string name="help">Hubungi kami untuk bantuan
+masalah yang Anda alami.
+Kami akan menjawab pertanyan
+Anda dengan cepat dan akurat.
+    </string>
+
+    <string name="general">General</string>
+    <string name="khusus">Khusus</string>
+
+    <string name="data_1">Usia                         : 18 tahun
+Jenis Kelamin       : Perempuan
+Berat Badan           : 54 Kg
+Tinggi Badan         : 160 cm
+Golongan Darah    : AB
+Rhesus                   : Negatif
+Berat Badan          : AB
+Status Rokok        : Pasif
+Tekanan Darah    : Normal
+    </string>
+
+    <string name="data_2">Penyakit       : Tidak ada
+Alergi             : Tidak ada
+    </string>
+</resources>
