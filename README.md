@@ -7,7 +7,7 @@ M299DSX0545
 Pancasila University
 as Machine Learning
     
-A. Nur Annisa 
+* A. Nur Annisa 
 Alif Panawan
 M177DSY1904
 Hasanuddin University
