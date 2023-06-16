@@ -2,23 +2,26 @@
 ## Product-Capstone Project by C23-PC761
 
 ## Team 
-Adi Pramono
+* Adi Pramono
 M299DSX0545
 Pancasila University
+as Machine Learning
     
 A. Nur Annisa 
 Alif Panawan
 M177DSY1904
 Hasanuddin University
+as Machine Learning
 
-   Arif Rafid Adli
+* Arif Rafid Adli
 C068DSX4837
 Politeknik Negeri Padang
+as Cloud Computing
 
-
-Fatya Hanifa
+* Fatya Hanifa
 A305DSY3249
 UPN Veteran jawa Timur
+as Mobile Development
 
 
 ### Background Fact
