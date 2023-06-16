@@ -11,5 +11,5 @@ The Process of blood transfusion need to be  decentralized, which in turn reduce
 
 ### Solution
 We are providing an application for hospital or blood transfusion unit as admin and application for donors as user. Our app’s features:
-** Emergency notification
-** User Profile and donor history
+* Emergency notification
+* User Profile and donor history
